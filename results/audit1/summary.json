@@ -1,0 +1,77 @@
+{
+ "generated_utc": "2026-11-06T22:11:32Z",
+ "runtime_s": 1187.0,
+ "joss_papers": 3787,
+ "with_archive_value": 3786,
+ "archive_doi_parsed": 3784,
+ "archive_doi_parsed_share": 0.9992,
+ "unique_archive_dois": 3784,
+ "prefix_counts_top15": {
+  "10.5281": 3665,
+  "10.6084": 77,
+  "10.17605": 10,
+  "10.26188": 4,
+  "10.18419": 2,
+  "10.4121": 2,
+  "10.5066": 2,
+  "10.17617": 1,
+  "10.34849": 1,
+  "10.25378": 1,
+  "10.20350": 1,
+  "10.35097": 1,
+  "10.26186": 1,
+  "10.14278": 1,
+  "10.15131": 1
+ },
+ "zenodo_share_of_parsed": 0.9686,
+ "lookup_definitive_share": 0.9992,
+ "dc_status_counts_papers": {
+  "200": 3778,
+  "429": 3,
+  "404": 3
+ },
+ "not_datacite_ra_counts": {
+  "registered|DataCite": 2,
+  "registered|Crossref": 1
+ },
+ "unregistered_papers": 0,
+ "unregistered_zenodo_papers": 0,
+ "datacite_papers": 3778,
+ "rtg_counts": {
+  "Software": 3688,
+  "Text": 45,
+  "JournalArticle": 19,
+  "Dataset": 15,
+  "Model": 4,
+  "ComputationalNotebook": 3,
+  "Other": 2,
+  "Preprint": 1,
+  "Journal": 1
+ },
+ "software_share": 0.9762,
+ "dc_state_counts": {
+  "findable": 3778
+ },
+ "concept_share": 0.0953,
+ "code_link_share": 0.6199,
+ "link_status_counts": {
+  "match": 2256,
+  "no_code_link": 1436,
+  "match_after_redirect": 40,
+  "other_repo": 46
+ },
+ "own_repo_match_share_of_linked": 0.9804,
+ "author_hit_share": 0.9878,
+ "created_after_pub": 83,
+ "shared_archive_dois_other_repo": 0,
+ "shared_archive_dois_same_repo": 0,
+ "suspect_code_counts": {
+  "S1_links_other_repo": 46,
+  "S5_joss_doi_as_archive": 1
+ },
+ "suspect_papers_any": 47,
+ "suspect_papers_S1_S2_S4": 46,
+ "github_resolve_calls": 152,
+ "github_resolve_capped": 0,
+ "no_doi_papers": 3
+}

@@ -1,0 +1,48 @@
+joss_doi,software,flag,other_link,relation_seen,grade,category,note
+10.21105/joss.10424,CWIPI,S1,github.com/onera/paradigm,dependency link (Compiles/IsRequiredBy family),acceptable,related_software_link,archive titled CWIPI 1.4.0; link is to a library it builds on
+10.21105/joss.10483,ParaDiGM,S1,github.com/onera/cwipi;github.com/onera/maia,IsRequiredBy,acceptable,related_software_link,archive titled ParaDiGM 2.9.0; links name packages that require it
+10.21105/joss.10451,prosail,S1,gitlab.com/jbferet/prosail,source link,acceptable,same_project_other_host,GitLab copy of the same package
+10.21105/joss.08992,DL_PY2F,S1,github.com/stfc/dl_py2f-example,IsSupplementedBy,acceptable,related_software_link,example repository supplements the archive
+10.21105/joss.06099,faer,S1,github.com/sarah-quinones/faer-rs,source link,acceptable,same_project_other_host,Codeberg vs GitHub home of faer
+10.21105/joss.09460,spring-batch-db-cluster-partitioning,S1,github.com/openjournals/joss-reviews,IsSupplementTo (review issue),acceptable,joss_infrastructure_link,link is the JOSS review issue
+10.21105/joss.08846,VolumeScaler,S1,github.com/zghanem0/sample-volumescaler,source link,acceptable,same_project_other_host,author's copy of the aws-samples repository
+10.21105/joss.08661,k-diagram,S1,github.com/earthai-tech/kdiagram,source link,acceptable,same_project_other_host,renamed repository
+10.21105/joss.07605,CNearest,S1,github.com/djsmithbham/neareststokeslets,IsNewVersionOf,acceptable,same_project_other_host,archive says it is a new version of the earlier NearestStokeslets code
+10.21105/joss.07823,RiverFlowDynamics,S1,github.com/angelmons/riverflowdynamics-joss,IsSupplementTo,acceptable,paper_or_bundle_repo,JOSS lists a Landlab fork; archive is the component's own JOSS repo
+10.21105/joss.06751,LiGuard,S1,github.com/m-shahbaz-kharal/liguard-2.x,source link,acceptable,same_project_other_host,project continued in a 2.x repository
+10.21105/joss.07916,BREADR,S1,github.com/adelaideuniversitymathsciences/breadr,source link,acceptable,same_project_other_host,moved to an organisation
+10.21105/joss.07008,spatPomp,S1,github.com/spatpomp-org/spatpomp,source link,acceptable,same_project_other_host,moved to an organisation
+10.21105/joss.06836,DuneCopasi,S1,github.com/dune-copasi/dune-copasi,source link,acceptable,same_project_other_host,GitHub mirror of the GitLab project
+10.21105/joss.06430,Pysewer,S1,github.com/dbdespot/pysewer,source link,acceptable,same_project_other_host,GitHub mirror of the UFZ GitLab project
+10.21105/joss.06839,AutoRA,S1,github.com/autoresearch/autora,source link,acceptable,paper_or_bundle_repo,JOSS lists the paper repository; archive is the software
+10.21105/joss.06943,DendroPy 5,S1,github.com/mmore500/dendropy,IsSupplementTo,acceptable,same_project_other_host,co-author's fork at the release tag
+10.21105/joss.06851,MetaCast,S1,github.com/liam-covid-19-forecasting/...,IsDerivedFrom,acceptable,related_software_link,archive titled MetaCast; link is the case-study repository it came from
+10.21105/joss.06745,nimbleHMC,S1,github.com/nimble-dev/nimble,Requires,acceptable,related_software_link,link is the parent package nimbleHMC requires
+10.21105/joss.06210,aion,S1,codeberg.org/tesselle/aion,IsSupplementTo,acceptable,same_project_other_host,moved to Codeberg
+10.21105/joss.06415,MC/DC,S1,github.com/mcdc-project/mcdc,source link,acceptable,same_project_other_host,moved organisation
+10.21105/joss.05731,ViNoS,S1,github.com/platipodium/vinos,source link,acceptable,same_project_other_host,GitHub copy of the Helmholtz GitLab project
+10.21105/joss.06057,CLPFUDatabase,S1,github.com/energyeconomydecoupling/clpfudatabase,source link,acceptable,paper_or_bundle_repo,JOSS lists the paper repository; archive is the software
+10.21105/joss.05879,inAccessMod,S1,github.com/unige-geohealth/accessmod,IsSupplementTo,acceptable,related_software_link,Zenodo file is inAccessMod-1.1.zip (opened live 2026-11-07); link names the tool it serves
+10.21105/joss.05265,MODE.behave,S1,github.com/fzj-iek3-vsa/mode_behave,source link,acceptable,same_project_other_host,moved to an organisation
+10.21105/joss.04365,smmR,S1,github.com/corentin-dev/smmr,source link,acceptable,same_project_other_host,GitHub copy of the PLMlab project
+10.21105/joss.04170,Asimov,S1,github.com/transientlunatic/asimov,source link,acceptable,same_project_other_host,GitHub mirror of the LIGO GitLab project
+10.21105/joss.04852,lidarwind,S1,github.com/jdiasn/lidarwind,source link,acceptable,same_project_other_host,lidarSuit renamed to lidarwind
+10.21105/joss.03523,Madym,S1,github.com/michaelberks/madym_cxx,source link,acceptable,same_project_other_host,GitHub copy of the GitLab project
+10.21105/joss.02575,DYCO,S1,github.com/holukas/dyco;joss-reviews,source link + review comment,acceptable,same_project_other_host,GitHub copy of the ETH GitLab project
+10.21105/joss.02721,Mangal.jl and EcologicalNetworks.jl,S1,github.com/poisotlab/juliaeconetworksvaluepack,IsSupplementTo,acceptable,paper_or_bundle_repo,archival repository holding source zips of both packages (opened live 2026-11-07)
+10.21105/joss.02872,SimpleSDMLayers.jl and GBIF.jl,S1,github.com/poisotlab/juliasdmvaluepack,IsSupplementTo,acceptable,paper_or_bundle_repo,same archival-bundle pattern as joss.02721 (repository not opened)
+10.21105/joss.02165,Utopia,S1,ts-gitlab.iup.uni-heidelberg.de/utopia/utopia,source link,acceptable,same_project_other_host,old GitLab host
+10.21105/joss.02313,DORiE,S1,ts-gitlab.iup.uni-heidelberg.de/dorie/dorie,source link,acceptable,same_project_other_host,old GitLab host
+10.21105/joss.02449,Sit2StandPy,S1,github.com/lukasadamowicz/sit2standpy,source link,acceptable,same_project_other_host,personal account before move to organisation
+10.21105/joss.02006,LiberTEM,S1,github.com/axboe/fio,Cites (one of about 100 Cites),acceptable,related_software_link,archive is LiberTEM 0.5.0; fio is a cited tool
+10.21105/joss.01889,hammurabi X,S1,github.com/hammurabi-dev/hammurabix,source link,acceptable,same_project_other_host,moved from Bitbucket
+10.21105/joss.01768,bbsAssistant,S1,github.com/openjournals/joss-papers,IsDocumentedBy (JOSS PDF),acceptable,joss_infrastructure_link,USGS archive; link is the JOSS paper PDF
+10.21105/joss.01821,tabula,S1,codeberg.org/tesselle/tabula,IsSupplementTo,acceptable,same_project_other_host,moved to Codeberg
+10.21105/joss.01340,mpi4py-fft,S1,github.com/mpi4py/mpi4py-fft,source link,acceptable,same_project_other_host,moved from Bitbucket
+10.21105/joss.01073,Rule-based integration (Rubi),S1,github.com/rulebasedintegration/rubi,source link,acceptable,paper_or_bundle_repo,JOSS lists the paper repository; archive is Rubi 4.16.0.5
+10.21105/joss.00897,mrivis,S1,github.com/raamana/graynet,IsSupplementTo github.com/raamana/graynet/tree/0.4.34,WRONG,wrong_archive,"archive is 'raamana/graynet: Release for final final DOI' (graynet 0.4.34, file graynet-0.4.34.zip); the record never mentions mrivis (Zenodo and JOSS JSON opened live 2026-11-07)"
+10.21105/joss.00829,pysrim,S1,github.com/costrouc/pysrim,source link,acceptable,same_project_other_host,GitHub copy of the GitLab project
+10.21105/joss.00690,qualtRics,S1,github.com/jasperhg90/qualtrics,source link,acceptable,same_project_other_host,earlier home before rOpenSci transfer
+10.21105/joss.00124,forest-confidence-interval,S1,github.com/swager/randomforestci,Cites,acceptable,related_software_link,archive is the Python package; link is the cited R original
+10.21105/joss.00363,psyplot,S1,github.com/chilipp/psyplot-conda,IsSupplementTo psyplot-conda/tree/v1.0.1,borderline-acceptable,installer_repo,"archive is the psyplot-conda installer release (2.6 GB of installers, docs and python-packages.zip); psyplot itself is only a git submodule of that repo; counted acceptable because the record bundles the psyplot packages, but it is not an archive of the psyplot repository"
+10.21105/joss.01693,kramersmoyal,S5,,,WRONG,joss_doi_as_archive,JOSS JSON software_archive is https://doi.org/10.21105/joss.01693 (the paper's own DOI); opened live 2026-11-07
